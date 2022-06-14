@@ -9,5 +9,5 @@ button {
   /* 👇 YOUR CODE HERE 👇 */
   margin: 20px;
   padding: 10px;
-  border-style: double 3px darkgray;
+  border: double 3px darkgray;
 }
